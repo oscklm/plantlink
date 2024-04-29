@@ -51,6 +51,10 @@ export const lightTheme = {
       color: colors.limedSpruce,
       fontSize: 36,
     },
+    stacks: {
+      spacing: 4,
+      debug: false,
+    },
   },
   margins: {
     sm: 2,
